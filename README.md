@@ -47,6 +47,6 @@ To this solution works, we must consider the following:
 1.	The voting methods (mail-in ballots, punch cards, and DRE) should concentrate the results in a tabular model into a CSV format file.
 2.	The CSV files must follow the format of columns: Ballot ID, County, and Candidate.
 3.  Adjust the path according to the local file system where the CSV file with the election results is. (line 9 in the code block Python).
-    <img src='Resources/file_load.PNG' />
+    <img src='Resources/file_load.PNG' width='100' />
 5.	Adjust the path according to the local file system where the audit results will save in a text file (line 12 in the code block Python).
-    <img src='Resources/file_save.PNG' />
+    <img src='Resources/file_save.PNG' width='100' />
