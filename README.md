@@ -19,6 +19,7 @@ We worked together with Tom on the auditory and analysis of elections results fo
 ## Election-Audit Results
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
+
 The counties were:
     - Jefferson
     - Denver
