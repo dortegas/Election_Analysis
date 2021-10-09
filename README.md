@@ -48,7 +48,8 @@ To this solution works, we must consider the following:
 2.	The CSV files must follow the format of columns: Ballot ID, County, and Candidate.
 3.  Adjust the path according to the local file system where the CSV file with the election results is. (line 9 in the code block Python).
 
-    <img src='Resources/file_load.PNG' width='400' />
+    <img src='Resources/file_load.PNG' width='500' />
     
 5.	Adjust the path according to the local file system where the audit results will save in a text file (line 12 in the code block Python).
-    <img src='Resources/file_save.PNG' width='400' />
+
+    <img src='Resources/file_save.PNG' width='500' />
