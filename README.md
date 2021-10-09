@@ -40,4 +40,4 @@ The analysis of the election show that:
     - **Diana DeGette**, who received 73.8% of the vote and 272,892 number of votes
 
 ## Summary
-    
+The audit automated with code Python was successful for the US Congressional precinct in Colorado. We could establish that the solution could work in other congressional district elections, also in senatorial local and district elections. 
