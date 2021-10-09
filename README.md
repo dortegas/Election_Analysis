@@ -14,7 +14,7 @@ We worked together with Tom on the auditory and analysis of elections results fo
 
 ## Resources
 - Data Source: election_results.csv
-- Software: Python 3.9.7, Visual Studio Code 1.61.0
+- Software: Python 3.9.7 and Visual Studio Code 1.61.0
 
 ## Election-Audit Results
 The analysis of the election show that:
