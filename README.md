@@ -1,19 +1,22 @@
 # Election Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
+We worked together with Tom on the auditory and analysis of elections results for the US Congressional precinct in Colorado. Tom is an employee of the Colorado Board of Elections. Our tasks were following to complete the analysis:
 
 1. Calculate the total numbers of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculate the total number of votes each candidate received.
-4. Calculate the percentage of votes each candidate won.
-5. Determine the winner of the election based on popular vote.
+2. The voter turnout for each county.
+3. The percentage of votes from each county out of the total count.
+4. The county with the highest turnout.
+5. Get a complete list of candidates who received votes.
+6. Calculate the total number of votes each candidate received.
+7. Calculate the percentage of votes each candidate won.
+8. Determine the winner of the election based on popular vote.
 
 ## Resources
 - Data Source: election_results.csv
 - Software: Python 3.9.7, Visual Studio Code 1.61.0
 
-## Summary
+## Election-Audit Results
 The analysis of the election show that:
 - There were X votes cast in the election.
 - The candidates were:
