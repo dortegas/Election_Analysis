@@ -19,10 +19,12 @@ We worked together with Tom on the auditory and analysis of elections results fo
 ## Election-Audit Results
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
+
 The counties were:
     - Jefferson
     - Denver
     - Arapahoe
+    
 The votes by counties were:
     - In Jefferson, the turnout was 38,855 votes which represent 10.5%.
     - In Denver, the turnout was 306,055 votes which represent 82.8%.
