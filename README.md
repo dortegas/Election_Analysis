@@ -29,15 +29,15 @@ The analysis of the election show that:
     - In Arapahoe, the turnout was 24,801 votes which represent 6.7%.
 - The county with the highest turnout was **Denver**
  - The candidates were:
-    - Candidate 1
-    - Candidate 2
-    - Candidate 3
+    - Diana DeGette
+    - Charles Casper Stockham
+    - Raymon Anthony Doane
 - The candidate results were:
-    - Candidate 1 received "x%" of the vote and "y" number of votes.
-    - Candidate 2 received "x%" of the vote and "y" number of votes.
-    - Candidate 3 received "x%" of the vote and "y" number of votes. 
+    - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+    - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+    - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes. 
 - The winner of the election was:
-    - Candidate #, who received "x%" of the vote and "y" number of votes.
+    - **Diana DeGette**, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Challenge Overview
 
