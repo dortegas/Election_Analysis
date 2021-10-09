@@ -20,8 +20,7 @@ total_votes = 0
 
 # Candidate Options
 candidate_options = []
-
-# 1. Declare the empty dictionary.
+# Declare the empty dictionary.
 candidate_votes = {}
 
 # Winning Candidate and Winning Count Tracker
@@ -106,6 +105,6 @@ with open(file_to_save, "w") as txt_file:
                     
                # 4. Print the candidate name and percentage of votes.
                #print(f"{candidate_name}: received {vote_percentage:.1f}% of the vote.")
-               
+
      # Save the winning candidate's name to the text file.
      txt_file.write(winning_candidate_summary)    
