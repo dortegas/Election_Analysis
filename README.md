@@ -27,6 +27,7 @@ The analysis of the election show that:
     - In Jefferson, the turnout was 38,855 votes which represent 10.5%.
     - In Denver, the turnout was 306,055 votes which represent 82.8%.
     - In Arapahoe, the turnout was 24,801 votes which represent 6.7%.
+- The county with the highest turnout was Denver
  - The candidates were:
     - Candidate 1
     - Candidate 2
